@@ -1,16 +1,9 @@
 # sushi_food_app
 
-A new Flutter project.
+Design from Dribbble:<br />
+<img src="https://raw.githubusercontent.com/ThearithThearith/sushi_food_app/master/assets/screenshot/sushi.png" width="400" />
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Result of mine:<br />
+<img src="https://raw.githubusercontent.com/ThearithThearith/sushi_food_app/master/assets/screenshot/mine.png" width="400" />\n
+\n
+with a little more functionality like add amount in detail and in cart.
