@@ -34,16 +34,6 @@ List<CartModel> shoppingCarts = [
   ),
   CartModel(
     foodModel: FoodModel(
-      id: 10,
-      title: 'Unagi',
-      image: 'assets/foods/sushi1.png',
-      price: 5.5,
-      rating: 4.9,
-    ),
-    amount: 2,
-  ),
-  CartModel(
-    foodModel: FoodModel(
       id: 5,
       title: 'Udon',
       image: 'assets/foods/ramen.png',
